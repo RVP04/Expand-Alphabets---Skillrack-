@@ -1,6 +1,6 @@
 # Expand-Alphabets---Skillrack-
 <h3 style="color:#003333">Expand Alphabets</h3>
-<br> <p>Given a string S with alphabets and their count, repeat the alphabets based on their count and print the value as the output.</p>
+<p>Given a string S with alphabets and their count, repeat the alphabets based on their count and print the value as the output.</p>
 
 <p><strong>Input Format:</strong><br>
 The first line contains S.</p>
